@@ -1,0 +1,55 @@
+.home {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  overflow-x: hidden;
+  padding-bottom: 30px;
+  .hero-img {
+    margin-bottom: 30px;
+    img {
+      object-fit: cover;
+      height: 400px;
+      width: 100%;
+    }
+  }
+  h1 {
+    text-align: center;
+    font-size: 28px;
+    width: 60%;
+    align-self: center;
+    margin-bottom: 30px;
+  }
+
+  p {
+    text-align: center;
+    font-size: 11px;
+    margin-bottom: 30px;
+    width: 80%;
+    align-self: center;
+  }
+  .buttons-section {
+    align-self: center;
+
+    .reg-button {
+      padding: 10px 20px;
+      font-size: 13px;
+      margin-right: 10px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      background: #2a966e;
+      font-weight: bold;
+      color: white;
+    }
+    .log-button {
+      padding: 10px 20px;
+      font-size: 13px;
+      margin-right: 10px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      background: #f5f8fa;
+      color: black;
+    }
+  }
+}

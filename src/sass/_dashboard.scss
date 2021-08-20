@@ -1,0 +1,52 @@
+.dashboard {
+  padding: 20px;
+  .dashboardimg {
+    height: 80vh;
+    width: 100%;
+  }
+  .pending-projects {
+    .work {
+      display: flex;
+      flex-wrap: wrap;
+      .work-card {
+        position: relative;
+        width: 45%;
+        min-height: 200px;
+        box-shadow: 0px 30px 60px #00000017;
+        border-radius: 10px;
+        padding: 20px;
+        margin-right: 10px;
+        .procname {
+          font-weight: bold;
+          font-size: 20px;
+          color: #2a966e;
+        }
+        .days-sec {
+          position: absolute;
+          bottom: 20px;
+          left: 0;
+          width: 100%;
+          padding: 0px 20px 20px 20px;
+          .days {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            width: 100%;
+            p {
+              color: #2a966e;
+              font-size: 12px;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+@media screen and (min-width: "900px") {
+  .dashboard {
+    .dashboardimg {
+      display: none;
+    }
+  }
+}

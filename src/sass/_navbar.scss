@@ -1,0 +1,30 @@
+.Navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.mob-nav {
+  background: #f5f8fa;
+  padding: 15px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-radius: 0px 0px 20px 20px;
+  .active {
+    path {
+      fill: #2a966e;
+    }
+  }
+  img {
+    height: 30px;
+  }
+}
+
+@media screen and (min-width: "900px") {
+  .Navbar {
+    display: none;
+  }
+  .mob-nav {
+    display: none;
+  }
+}

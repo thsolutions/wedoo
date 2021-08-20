@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="651" height="378" viewBox="0 0 651 378">
+  <defs>
+    <filter id="Background" x="120" y="105" width="406" height="142" filterUnits="userSpaceOnUse">
+      <feOffset dy="-13" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="13" result="blur"/>
+      <feFlood flood-color="#fff"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Tab_Bar_v1" data-name="Tab Bar v1" transform="translate(150 150)">
+    <rect id="Background-2" data-name="Background" width="351" height="78" fill="#fff"/>
+    <g transform="matrix(1, 0, 0, 1, -150, -150)" filter="url(#Background)">
+      <path id="Background-3" data-name="Background" d="M0,0H328a0,0,0,0,1,0,0V48a16,16,0,0,1-16,16H16A16,16,0,0,1,0,48V0A0,0,0,0,1,0,0Z" transform="translate(159 157)" fill="#f5f8fa"/>
+    </g>
+    <g id="Home" transform="translate(-86 27.541)">
+      <circle id="Ellipse_7" data-name="Ellipse 7" cx="8" cy="8" r="8" transform="translate(120.56 5.459)" fill="#99d5be" opacity="0.5"/>
+      <g id="Iconly_Bold_Home" data-name="Iconly/Bold/Home" transform="translate(126.063 0.363)">
+        <g id="Home-2" data-name="Home" transform="translate(2.604 2.083)">
+          <path id="Home-3" data-name="Home" d="M6.911,19.556V16.37A1.478,1.478,0,0,1,8.394,14.9h2.994a1.488,1.488,0,0,1,1.049.431,1.467,1.467,0,0,1,.434,1.041v3.185a1.264,1.264,0,0,0,.371.9,1.283,1.283,0,0,0,.907.375h2.043a3.6,3.6,0,0,0,2.545-1.041,3.552,3.552,0,0,0,1.055-2.524V8.195a2.576,2.576,0,0,0-.933-1.981L11.91.7A3.226,3.226,0,0,0,7.8.778L1.007,6.213A2.577,2.577,0,0,0,0,8.195v9.065a3.587,3.587,0,0,0,3.6,3.574h2a1.283,1.283,0,0,0,1.287-1.268Z" transform="translate(0 0)" fill="#99d5be"/>
+        </g>
+      </g>
+    </g>
+    <g id="Iconly_Bold_Profile" data-name="Iconly/Bold/Profile" transform="translate(289 27)">
+      <g id="Profile" transform="translate(4 2)">
+        <path id="Profile-2" data-name="Profile" d="M0,16.575c0-2.722,3.685-3.4,8-3.4,4.339,0,8,.7,8,3.425S12.315,20,8,20C3.662,20,0,19.3,0,16.575ZM2.706,5.291A5.294,5.294,0,1,1,8,10.583,5.274,5.274,0,0,1,2.706,5.291Z" fill="#2a966e"/>
+      </g>
+    </g>
+    <g id="Iconly_Bold_Notification" data-name="Iconly/Bold/Notification" transform="translate(228.5 29.987)">
+      <g id="Notification" transform="translate(0 0)">
+        <path id="Notification-2" data-name="Notification" d="M8.316,20.8a3.77,3.77,0,0,1-1.785-.763,1.616,1.616,0,0,1-.725-1.222c0-.525.481-.765.926-.868a27.036,27.036,0,0,1,4.215,0c.445.1.926.343.926.868a1.618,1.618,0,0,1-.724,1.222,3.787,3.787,0,0,1-1.784.762,4.162,4.162,0,0,1-.533.035A3.82,3.82,0,0,1,8.316,20.8Zm-4.4-4.4A4.724,4.724,0,0,1,.9,14.932,3.765,3.765,0,0,1,0,12.454a3.508,3.508,0,0,1,.761-2.407A3.955,3.955,0,0,0,1.868,7.079V6.636A5.859,5.859,0,0,1,3.205,2.617,7.368,7.368,0,0,1,8.808,0H8.9A7.335,7.335,0,0,1,14.6,2.734a5.777,5.777,0,0,1,1.245,3.9v.443a4.051,4.051,0,0,0,1.106,2.968,3.5,3.5,0,0,1,.761,2.407,3.764,3.764,0,0,1-.9,2.478A4.728,4.728,0,0,1,13.789,16.4c-1.637.139-3.275.257-4.934.257A43.425,43.425,0,0,1,3.921,16.4Z" fill="#99d5be"/>
+      </g>
+    </g>
+  </g>
+</svg>

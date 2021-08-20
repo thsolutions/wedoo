@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="330" height="413" viewBox="0 0 330 413">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="330" height="345" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_3361" data-name="Group 3361" transform="translate(-30 -116)">
+    <text id="Notification" transform="translate(98 137)" font-size="22" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="-67.507" y="0">Notification</tspan></text>
+    <g id="Repeat_Grid_9" data-name="Repeat Grid 9" transform="translate(30 184)" clip-path="url(#clip-path)">
+      <g transform="translate(-25 -132)">
+        <g id="_1" data-name="1" transform="translate(0 -49)">
+          <text id="Smiley_s_Store_marked_your_order_1982984_as_shipped." data-name="Smiley’s Store marked your order #1982984 as shipped." transform="translate(30 186)" fill="#515c6f" font-size="15" font-family="SegoeUI, Segoe UI"><tspan x="0" y="16">Smiley’s Store </tspan><tspan y="16" font-family="SegoeUI-Light, Segoe UI" font-weight="300">marked your </tspan><tspan x="0" y="36" font-family="SegoeUI-Light, Segoe UI" font-weight="300">order </tspan><tspan y="36" fill="#ff6969">#1982984</tspan><tspan y="36" xml:space="preserve" font-family="SegoeUI-Light, Segoe UI" font-weight="300"> as </tspan><tspan y="36">shipped</tspan><tspan y="36" font-family="SegoeUI-Light, Segoe UI" font-weight="300">.</tspan></text>
+          <text id="_9:20_AM" data-name="9:20 AM" transform="translate(355 198)" fill="#515c6f" font-size="14" font-family="SegoeUI-Light, Segoe UI" font-weight="300" opacity="0.5"><tspan x="-49.048" y="0">9:20 AM</tspan></text>
+          <line id="Line_17" data-name="Line 17" x2="262" transform="translate(93 247)" fill="none" stroke="#727c8e" stroke-width="1" opacity="0.15"/>
+        </g>
+        <g id="_1-2" data-name="1" transform="translate(0 33)">
+          <text id="Package_from_your_order_1982345_has_arrived_to_destination_country." data-name="Package from your order #1982345 has arrived to destination country." transform="translate(30 186)" fill="#515c6f" font-size="15" font-family="SegoeUI-Light, Segoe UI" font-weight="300"><tspan x="0" y="16">Package from your order </tspan><tspan x="0" y="36" fill="#ff6969" font-family="SegoeUI, Segoe UI" font-weight="400">#1982345</tspan><tspan y="36" xml:space="preserve"> has </tspan><tspan y="36" font-family="SegoeUI, Segoe UI" font-weight="400">arrived to </tspan><tspan x="0" y="56" font-family="SegoeUI, Segoe UI" font-weight="400">destination country</tspan><tspan y="56">.</tspan></text>
+          <text id="Yesterday" transform="translate(355 198)" fill="#515c6f" font-size="14" font-family="SegoeUI-Light, Segoe UI" font-weight="300" opacity="0.5"><tspan x="-54.858" y="0">Yesterday</tspan></text>
+          <line id="Line_17-2" data-name="Line 17" x2="262" transform="translate(93 266)" fill="none" stroke="#727c8e" stroke-width="1" opacity="0.15"/>
+        </g>
+        <g id="_1-3" data-name="1" transform="translate(0 211)">
+          <text id="BOGO_Sale_starting_tomorrow._Don_t_forget_to_check_it_out_for_great_deals_" data-name="BOGO Sale starting tomorrow. Don’t forget to check it out for great deals!" transform="translate(30 186)" fill="#515c6f" font-size="15" font-family="SegoeUI, Segoe UI"><tspan x="0" y="16">BOGO Sale </tspan><tspan y="16" font-family="SegoeUI-Light, Segoe UI" font-weight="300">starting </tspan><tspan x="0" y="36" fill="#ff6969">tomorrow</tspan><tspan y="36" font-family="SegoeUI-Light, Segoe UI" font-weight="300">. Don’t forget to </tspan><tspan x="0" y="56" font-family="SegoeUI-Light, Segoe UI" font-weight="300">check it out for </tspan><tspan y="56">great deals!</tspan></text>
+          <text id="_20_Sep" data-name="20 Sep" transform="translate(355 198)" fill="#515c6f" font-size="14" font-family="SegoeUI-Light, Segoe UI" font-weight="300" opacity="0.5"><tspan x="-40.127" y="0">20 Sep</tspan></text>
+          <line id="Line_17-3" data-name="Line 17" x2="262" transform="translate(93 266)" fill="none" stroke="#727c8e" stroke-width="1" opacity="0.15"/>
+        </g>
+        <g id="_1-4" data-name="1" transform="translate(0 134)">
+          <text id="_50_OFF_of_everything_at_Elegance_Store_" data-name="50% OFF of everything at Elegance Store!!" transform="translate(30 186)" fill="#515c6f" font-size="15" font-family="SegoeUI, Segoe UI"><tspan x="0" y="16">50% OFF</tspan><tspan y="16" xml:space="preserve" font-family="SegoeUI-Light, Segoe UI" font-weight="300"> of everything at </tspan></text>
+          <text id="_15_Oct" data-name="15 Oct" transform="translate(355 198)" fill="#515c6f" font-size="14" font-family="SegoeUI-Light, Segoe UI" font-weight="300" opacity="0.5"><tspan x="-37.064" y="0">15 Oct</tspan></text>
+          <line id="Line_17-4" data-name="Line 17" x2="262" transform="translate(93 243)" fill="none" stroke="#727c8e" stroke-width="1" opacity="0.15"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

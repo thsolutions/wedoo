@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="651" height="378" viewBox="0 0 651 378">
+  <defs>
+    <filter id="Background" x="120" y="105" width="406" height="142" filterUnits="userSpaceOnUse">
+      <feOffset dy="-13" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="13" result="blur"/>
+      <feFlood flood-color="#fff"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Tab_Bar_v1_Wireframe_" data-name="Tab Bar v1 (Wireframe)" transform="translate(150 150)">
+    <rect id="Background-2" data-name="Background" width="351" height="78" fill="#fff"/>
+    <g transform="matrix(1, 0, 0, 1, -150, -150)" filter="url(#Background)">
+      <path id="Background-3" data-name="Background" d="M0,0H328a0,0,0,0,1,0,0V48a16,16,0,0,1-16,16H16A16,16,0,0,1,0,48V0A0,0,0,0,1,0,0Z" transform="translate(159 157)" fill="#f5f8fa"/>
+    </g>
+    <g id="Home" transform="translate(-86 27.541)">
+      <circle id="Ellipse_7" data-name="Ellipse 7" cx="8" cy="8" r="8" transform="translate(120.56 5.459)" opacity="0.5"/>
+      <g id="Iconly_Bold_Home" data-name="Iconly/Bold/Home" transform="translate(126.063 0.363)">
+        <g id="Home-2" data-name="Home" transform="translate(2.604 2.083)">
+          <path id="Home-3" data-name="Home" d="M6.911,19.556V16.37A1.478,1.478,0,0,1,8.394,14.9h2.994a1.488,1.488,0,0,1,1.049.431,1.467,1.467,0,0,1,.434,1.041v3.185a1.264,1.264,0,0,0,.371.9,1.283,1.283,0,0,0,.907.375h2.043a3.6,3.6,0,0,0,2.545-1.041,3.552,3.552,0,0,0,1.055-2.524V8.195a2.576,2.576,0,0,0-.933-1.981L11.91.7A3.226,3.226,0,0,0,7.8.778L1.007,6.213A2.577,2.577,0,0,0,0,8.195v9.065a3.587,3.587,0,0,0,3.6,3.574h2a1.283,1.283,0,0,0,1.287-1.268Z" transform="translate(0 0)"/>
+        </g>
+      </g>
+      <text id="Home-4" data-name="Home" transform="translate(167 18.459)" font-size="15" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Home</tspan></text>
+    </g>
+    <g id="Iconly_Bold_Profile" data-name="Iconly/Bold/Profile" transform="translate(289 27)">
+      <g id="Profile" transform="translate(4 2)">
+        <path id="Profile-2" data-name="Profile" d="M0,16.575c0-2.722,3.685-3.4,8-3.4,4.339,0,8,.7,8,3.425S12.315,20,8,20C3.662,20,0,19.3,0,16.575ZM2.706,5.291A5.294,5.294,0,1,1,8,10.583,5.274,5.274,0,0,1,2.706,5.291Z" fill="#b4b4b4"/>
+      </g>
+    </g>
+    <g id="Iconly_Light-outline_Search" data-name="Iconly/Light-outline/Search" transform="translate(165 29)">
+      <g id="Search">
+        <path id="Search-2" data-name="Search" d="M0,10.6A9.518,9.518,0,0,1,9.611,1.2a9.7,9.7,0,0,1,6,2.06L18.737.212l.083-.07a.753.753,0,0,1,.964.071.713.713,0,0,1,0,1.024L16.692,4.251A9.25,9.25,0,0,1,19.223,10.6,9.518,9.518,0,0,1,9.611,20,9.518,9.518,0,0,1,0,10.6Zm1.48,0a8.052,8.052,0,0,0,8.131,7.951A8.052,8.052,0,0,0,17.743,10.6,8.052,8.052,0,0,0,9.611,2.649,8.052,8.052,0,0,0,1.48,10.6Z" transform="translate(20 20) rotate(180)" fill="#b4b4b4"/>
+      </g>
+    </g>
+    <g id="Iconly_Light_Bag" data-name="Iconly/Light/Bag" transform="translate(225 27)">
+      <g id="Bag" transform="translate(2.5 1.5)">
+        <path id="Path_33955" d="M13.213,14.682H4.865C1.8,14.682-.554,13.574.114,9.117L.892,3.076C1.3.851,2.723,0,3.968,0H14.146c1.263,0,2.6.915,3.076,3.076L18,9.117C18.567,13.071,16.279,14.682,13.213,14.682Z" transform="translate(0.801 5.318)" fill="none" stroke="#b4b4b4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+        <path id="Path_33956" d="M8.659,4.32A4.32,4.32,0,0,0,4.339,0h0A4.32,4.32,0,0,0,0,4.32H0" transform="translate(5.492 0.778)" fill="none" stroke="#b4b4b4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+        <path id="Line_192" d="M.481.458H.435" transform="translate(12.316 9.144)" fill="none" stroke="#b4b4b4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+        <path id="Line_193" d="M.481.458H.435" transform="translate(6.485 9.144)" fill="none" stroke="#b4b4b4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      </g>
+    </g>
+  </g>
+</svg>
